@@ -6,11 +6,12 @@ It reads the contents of a "NowPlaying" text file and a cover image (jpg, jpeg, 
 
 
 NowPlaying.txt format:
+<pre>
 artist=Burial
 title=Homeless
 album=Untrue
 love=0
-
+</pre>
 
 It adds buttons for:
 - Artist</br>
