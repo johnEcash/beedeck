@@ -1,9 +1,9 @@
 # beedeck
-Stream Deck plugin that shows Musicbee Now Playing information
+Stream Deck plugin that shows Musicbee Now Playing information.
 
 This plugin is created to fit my needs. It mostly reflects the state of the Love tag in Musicbee.
 It reads the contents of a "NowPlaying" text file and a cover image (jpg, jpeg, png) set by the user.
-
+In my case I use Musicbee, but if your player can export to a textfile in below format it should work too.
 
 NowPlaying.txt format:
 <pre>
@@ -23,5 +23,11 @@ It adds buttons for:
 it adds a customizable dial with Album Cover and <artist - track> ticker
 both buttons and dial have recordable hotkeys to set prev - next - play pause
 
+
+
+
+<img width="539" height="964" alt="afbeelding" src="https://github.com/user-attachments/assets/6b09f865-4bcc-4da2-9ca3-9dbc49515346" />
+<img width="617" height="959" alt="afbeelding" src="https://github.com/user-attachments/assets/174334e8-3730-4d58-b0e6-208ccfb47a6a" />
+<img width="571" height="1033" alt="afbeelding" src="https://github.com/user-attachments/assets/cc1763da-7877-4035-a756-5a16bc65e5ba" />
 
 
