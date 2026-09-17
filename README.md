@@ -13,7 +13,7 @@ love=0
 
 
 It adds buttons for:
-- Artist
+- Artist<br>
 - Track
 - Album
 - Cover
@@ -21,10 +21,6 @@ It adds buttons for:
 
 it adds a customizable dial with Album Cover and <artist - track> ticker
 both buttons and dial have recordable hotkeys to set prev - next - play pause
-
-<img width="533" height="709" alt="afbeelding" src="https://github.com/user-attachments/assets/2caf05cc-a81d-4dd1-92e1-896453a2a18d" />
-<img width="567" height="741" alt="afbeelding" src="https://github.com/user-attachments/assets/1b11bfd5-0ac2-46b3-9ae9-544e005fdede" />
-<img width="651" height="1053" alt="afbeelding" src="https://github.com/user-attachments/assets/1eeaf556-99a7-4c58-a76b-68bd58470247" />
 
 
 
