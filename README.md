@@ -13,11 +13,11 @@ love=0
 
 
 It adds buttons for:
-- Artist<br>
-- Track
-- Album
-- Cover
-- Love Status
+- Artist</br>
+- Track</br>
+- Album</br>
+- Cover</br>
+- Love Status</br>
 
 it adds a customizable dial with Album Cover and <artist - track> ticker
 both buttons and dial have recordable hotkeys to set prev - next - play pause
