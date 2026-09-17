@@ -4,6 +4,7 @@ Stream Deck plugin that shows Musicbee Now Playing information.
 This plugin is created to fit my needs. It mostly reflects the state of the Love tag in Musicbee.
 It reads the contents of a "NowPlaying" text file and a cover image (jpg, jpeg, png) set by the user.
 In my case I use Musicbee, but if your player can export to a textfile in below format it should work too.
+Musicbee plugin that creates the textfile: https://github.com/johnEcash/mb_NowPlayingTags
 
 NowPlaying.txt format:
 <pre>
