@@ -21,7 +21,8 @@ It adds buttons for:
 - Love Status</br>
 
 it adds a customizable dial with Album Cover and <artist - track> ticker
-both buttons and dial have recordable hotkeys to set prev - next - play pause
+both buttons and dial have recordable hotkeys to set prev - next - play pause.
+Set hotkeys in musicbee to global.
 
 
 
