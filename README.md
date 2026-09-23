@@ -37,7 +37,7 @@ A custom [Elgato Stream Deck](https://www.elgato.com/stream-deck) plugin that co
 ## Configuration
 
 ### NowPlaying.txt
-
+https://github.com/johnEcash/mb_NowPlayingTags
 MusicBee needs to be set up to write a small text file whenever the track or playback state changes, with one `key=value` pair per line. beedeck reads these keys (case-insensitive):
 
 | Key | Example | Meaning |
