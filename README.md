@@ -8,10 +8,16 @@ Musicbee plugin that creates the textfile: https://github.com/johnEcash/mb_NowPl
 
 NowPlaying.txt format:
 <pre>
-artist=Burial
-title=Homeless
-album=Untrue
-love=0
+artist=Public Energy
+title=hemi-sync (part one)
+album=Hemi-Sync CDM
+love=1
+duration=4:09
+position=3:39
+shuffle=1
+autodj=0
+repeat=none
+
 </pre>
 
 It adds buttons for:
