@@ -20,6 +20,7 @@ It adds buttons for:
 - Album</br>
 - Cover</br>
 - Love Status</br>
+- Progress Bar</br>
 
 it adds a customizable dial with Album Cover and <artist - track> ticker
 both buttons and dial have recordable hotkeys to set prev - next - play pause.
