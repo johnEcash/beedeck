@@ -3,6 +3,8 @@
 A Stream Deck plugin that controls and displays [MusicBee](https://www.getmusicbee.com/)
 
 <img width="554" height="439" alt="afbeelding" src="https://github.com/user-attachments/assets/2db4834e-f0ce-4fd5-aede-c79f372811f7" />
+<img width="511" height="429" alt="afbeelding" src="https://github.com/user-attachments/assets/0708b3f9-9464-4fd1-9bbc-382118305650" />
+
 
 <img width="476" height="80" alt="afbeelding" src="https://github.com/user-attachments/assets/600c0895-f9a9-452f-a81c-2e7cea7167f2" />
 <img width="484" height="79" alt="afbeelding" src="https://github.com/user-attachments/assets/8db8cd08-7aff-4f76-ba8d-4cf6ba1e47da" />
