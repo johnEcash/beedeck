@@ -8,7 +8,7 @@ A Stream Deck plugin that controls and displays [MusicBee](https://www.getmusicb
 - An Elgato Stream Deck, Stream Deck Mini, or Stream Deck+
   - The **Now Playing** dial card (rating, repeat, shuffle, volume) requires a **Stream Deck+** specifically, since it uses its touch-strip dials. Everything else works on any Stream Deck.
 - Stream Deck software 6.5 or newer
-- Windows 10/11 or macOS 10.15+
+- Windows 10/11
 
 ## Installation
 
