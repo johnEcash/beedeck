@@ -2,6 +2,11 @@
 
 A Stream Deck plugin that controls and displays [MusicBee](https://www.getmusicbee.com/)
 
+
+
+<img width="985" height="938" alt="afbeelding" src="https://github.com/user-attachments/assets/d8a862f4-d3df-4dab-84c9-ee4997bb09fe" />
+
+
 ## Requirements
 
 - [MusicBee](https://www.getmusicbee.com/) (tested on 3.6.x)
