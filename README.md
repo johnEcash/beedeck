@@ -67,12 +67,3 @@ One shared theme for every button at once — set it from the Property Inspector
 - **Custom** — every color, the font, and a background pattern set individually
 
 
-## Troubleshooting
-
-- **Nothing shows up / stuck on an old track:** make sure MusicBee is running. The plugin reconnects automatically every couple of seconds if the connection drops, including after a MusicBee restart.
-- **Check the MusicBee-side log:** `%AppData%\MusicBee\beedeck-plugin.log` — every command and notification is logged there with a timestamp.
-- **Dial feedback not appearing:** dial-based features (the Now Playing card) need a Stream Deck+; on a Mini or regular Stream Deck use **Now Playing (compact)** instead.
-
-## License
-
-*(add your license of choice here)*
